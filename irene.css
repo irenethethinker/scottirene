@@ -1,0 +1,183 @@
+body {
+    margin-left: 15px;         
+    background-size: auto;
+    background-color: #eee8aa;
+    color: #006400;
+    font-family: Arial, 'Times New Roman', Verdana;
+    font-size: 22px;
+    
+}
+
+h4 {
+    margin-left: 15px;
+}
+
+.underline {
+    border-bottom: 4px solid #b8860b;
+    margin-right: 70px;
+}
+
+.jumbotron {
+    background-size: cover;
+    background-color: #00ffff;
+    background-repeat: no-repeat;    
+}
+
+.img-responsive { 
+    width: 300;
+    height: auto;
+    display: block;
+    border: 5px solid #b8860b;
+}
+
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.ex {
+    height: 300px;
+    width: 300px;
+    margin-left: 420px;
+    background-color: #dc143c;
+    color: #000000;
+}
+
+
+.fx {
+    height: 300px;
+    width: 300px;
+    margin-left: 420px;
+    background-color: #d2691e;
+    color: #000000;
+}
+
+.gx {
+    height: 300px;
+    width: 300px;
+    margin-left: 420px;
+    background-color: #008080;
+    color: #000000;
+}
+
+.hx {
+    height: 300px;
+    width: 300px;
+    margin-left: 420px;
+    background-color: #008000;
+    color: #000000;
+}
+
+/*
+    a:visited {color:#dc143c;
+}
+    a:link {color:#5c4604;   
+}
+    a:hover {color:#b8860b;   
+}
+    a:active {color:#00ffff; 
+}
+*/
+/*BELOW FROM BRACKETS */
+#pageholder {
+ width: 960px;
+}
+
+.header {
+    line-height: 7px;
+    font-size: 40px;
+    background-color: #ebb105;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 150px;
+    border-bottom: 7px solid #a52a2a;
+    width: 960px;
+    clear: both;
+}
+#body_text {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#body_headings {
+    line-height: 27px;
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    line-height: 2px;
+}
+
+
+.p {
+    margin-bottom: 40px;
+    font-weight: normal;
+    margin-top: 8px;
+/*    float: right;  */
+} 
+
+    a:visited {color:#f5f5dc;
+}
+    a:link {color:#5c4604;   
+}
+    a:hover {color:#b8860b;   
+}
+    a:active {color:#00ffff; 
+}
+.menu li {
+    display: inline-block;
+    margin: -2px 0px 50px 0px;
+    background-color: #ebb105;
+    width: 100px;
+    height: 35px;
+    padding: 0px;
+    text-align: center;
+    font-size: 20px;
+    border: 4px #ab8209;
+    border-style: ridge;
+}   
+#center_navbar {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -15px;
+    height: 130px;
+}
+.home_img {
+    margin: 5px 25px 5px 11px;
+    width: 29.5;
+    height: 1;
+    margin-top: 0px;
+    padding: auto;
+    border: 20px ridge #b8860b;
+/*    float: left;                 */
+}
+.etour_img {
+    margin: 5px 25px 5px 4px;
+    width: 29.5;
+    height: 1;
+    padding: auto;
+    border: 20px ridge #b8860b;
+    float: left;
+}
+#spacer{
+    height: 500px;
+}
+
+footer {
+    background-color: #eeeeaa;
+    padding-top: 2px;
+    margin-right: -200px;
+    margin-left: -20px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    height: 80px;
+    border-top: 7px solid #006400;
+    clear: both;    
+}
